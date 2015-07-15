@@ -5,6 +5,7 @@ Below are power ranking for the 2014-2015 NHL regular season.  The method I used
 ![alt tag](https://github.com/frutoper/NHLAdjustedGoalDiff/blob/master/Output/EndOfSeasonTable.png)
 
 Notes:
+
 -The Central is good.  Both wildcards in the West came out of the Central so it shouldn’t be a surprise to see these teams at the top of the list. 
 - LA was the best team to not make the playoffs.  This ranking system had them better than 3 playoff teams.
 -Anaheim is the worst playoff team, which is surprising given their 109 points.  The Ducks average 2.78 goals per game and give up 2.70 goals per game.  Look for another early exit for Anaheim.
