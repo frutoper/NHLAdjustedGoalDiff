@@ -13,5 +13,5 @@ Notes:
 Technical Notes:
 * I used 30 iterations of the system to get to the Adjusted Goal Differential.  This may have been excessive given how little changed after even 5 iterations.  More iterations might be needed in leagues like the NFL or college sports where ever team doesn't play each other
 
-Data: http://www.nhl.com/stats/
+Data: Scraped from http://www.nhl.com/stats/
 
